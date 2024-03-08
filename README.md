@@ -9,8 +9,7 @@ FLOW CHART:
 Home page consists of introduction,selection of type of destinations,reviews,contact us,footer,
 After selecting the destination the user is directed to various destination option as per their choice of international or domestic.
 After selecting a particular destination the user is directed to special packages available on that destination.
-The website consists of an about page which gives a better understanding about o
-Atulya Singh
-ur website.
+The website consists of an about page which gives a better understanding about
+our website.
 The website consists of a login page where the user needs to fill there credentials.
 The website consists of a contact us page where all the contact information is available
