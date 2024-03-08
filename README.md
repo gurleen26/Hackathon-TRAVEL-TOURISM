@@ -1,6 +1,6 @@
 # Hackathon-TRAVEL-TOURISM
 Website related to various tourist destinations (domestic &amp; international)
-Problem statement number: 40
+Problem statement number: 32
 Problem statement title : Student Innovation : Travel and Tourism
 
 IDEA: We are creating a website as business proposal for travel agency 'Travactions' which caters people from all around the world to fulfil their desire of visiting their dream destinations.They can choose any,either domestic or international destinations.We hope to provide the best facilities with great personalisation.We aim to make their journey blissful,easy and comfortable.Our website provides personalised affordable packages accrording to the destinations.
